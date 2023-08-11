@@ -1,0 +1,11 @@
+— Solicitudes: HTTP para humanos 
+https://requests.readthedocs.io/en/latest/
+
+— Lxml.html
+https://lxml.de/lxmlhtml.html
+
+— Python PIP
+https://www.w3schools.com/python/python_pip.asp
+
+— Web Scrapping - Encabezados
+https://github.com/lkuffo/web-scraping/blob/master/user_agents.txt
